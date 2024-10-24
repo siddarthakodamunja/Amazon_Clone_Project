@@ -1,0 +1,1 @@
+This project is a fully functional online store that allows users to browse, search for products, add items to their cart, and make purchases. The website is built using modern web technologies and features a user-friendly interface, secure payment methods, and an intuitive admin dashboard for managing products, orders, and customers.
